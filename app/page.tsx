@@ -95,6 +95,9 @@ export default function LandingPage() {
             <Link href="/workshop" className="text-sm text-gray-400 hover:text-white transition-colors">
               Workshop
             </Link>
+            <Link href="/governance" className="text-sm text-gray-400 hover:text-white transition-colors">
+              Governance
+            </Link>
             <Link href="/leaderboard" className="text-sm text-gray-400 hover:text-white transition-colors">
               Leaderboard
             </Link>
